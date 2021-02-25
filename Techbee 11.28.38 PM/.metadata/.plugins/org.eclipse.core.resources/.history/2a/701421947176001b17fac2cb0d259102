@@ -1,0 +1,9 @@
+package com.bankTechbee;
+
+import java.util.ArrayList;
+
+public class BankUserDao {
+	ArrayList<BankAccount> UserAccounts = new ArrayList();
+
+
+}

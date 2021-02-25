@@ -1,0 +1,30 @@
+package com.bankTechbee;
+
+import java.util.Scanner;
+
+public class FrontEnd extends BankAccount {
+
+	 
+	 public void showBalance() {
+		 
+	 }
+	 public void deposit() {
+		 
+	 }
+	 public void withdrawl() {
+		 
+	 }
+	 public void exit() {
+		 
+	 }
+
+	 public static void main(String [ ]args) {
+		 Scanner sc = new Scanner(System.in);
+		 
+		 NewAccount user1 = new Account();
+		 user1.setName("james");
+		 user1.setEmail("james@gmail.com");
+		 
+	 }
+
+}
