@@ -7,5 +7,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="/Users/gregoryjackson/Downloads/mysql-connector-java-8.0.20.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Applications/apache-maven-3.6.3.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
