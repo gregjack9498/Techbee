@@ -19,6 +19,9 @@ public class BankAccount {
 		setEmail(email);
 		setPhoneNumber(phoneNumber);
 	}
+	public BankAccount() {
+		// TODO Auto-generated constructor stub
+	}
 	public long getAccountNumber() {
 		return accountNumber;
 	}
